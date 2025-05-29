@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <!-- Остальной код остается без изменений -->
     <div class="container">
         <h1>🚗 Москвич 412 Кликер 🚗</h1>
         <div class="stats">
